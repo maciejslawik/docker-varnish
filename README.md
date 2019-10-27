@@ -1,0 +1,1 @@
+# Varnish Docker image
